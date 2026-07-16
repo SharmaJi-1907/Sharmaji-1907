@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.png">
-  <img alt="Abhinav Sharma — Robotics & AI Engineer" src="assets/header-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="header-light.png">
+  <img alt="Abhinav Sharma — Robotics & AI Engineer" src="header-light.png">
 </picture>
 
 **Robotics & AI Engineer.** I work on autonomous mobile robots — LiDAR-based systems that map a space, plan a path, and hold it without hitting anything that moves.
